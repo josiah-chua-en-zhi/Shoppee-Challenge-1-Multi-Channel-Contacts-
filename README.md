@@ -12,16 +12,23 @@ For each ticket, identify all contacts from each user if they have the same cont
 For the purpose of this question, assume that all contacts from the same Phone Number / Email are the same user.
 
 Basic Concepts
-Each Order ID represents a transaction in Shopee.\n
-Each Id represents the Ticket Id made to Shopee Customer Service.\n
-All Phone Numbers are stored without the country code and the country code can be ignored.\n
-Contacts represent the number of times a user reached out to us in that particular ticket (Email, Call, Livechat etc.)\n
+Each Order ID represents a transaction in Shopee.
+
+Each Id represents the Ticket Id made to Shopee Customer Service.
+
+All Phone Numbers are stored without the country code and the country code can be ignored.
+
+Contacts represent the number of times a user reached out to us in that particular ticket (Email, Call, Livechat etc.)
+
 If a value is NA means that the system or agent has no record of that value.\n
 
 Submission Format
+
 Determine how many contacts each user has had across the various tickets.
+
 
 Two columns required:
 
 ticket_id
+
 ticket_trace/contact
