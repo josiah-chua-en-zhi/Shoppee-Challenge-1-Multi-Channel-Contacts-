@@ -24,3 +24,5 @@ Determine how many contacts each user has had across the various tickets.
 Two columns required:
 ticket_id
 ticket_trace/contact
+
+Get the data set here (https://www.kaggle.com/c/scl-2021-da/data)
